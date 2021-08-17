@@ -71,7 +71,8 @@ const raceDB = {
       second: "Ralf Shumacher",
       third: "Jean Alesi",
       poster: "https://i.postimg.cc/qMYhxwsV/1998-belgian.jpg",
-      fact: ""
+      fact:
+        "One of Formula 1's greatest-ever wet races, the 1998 Belgian Grand Prix was jam-packed with incidents, drama and - in the case of the Schumacher brothers - flaring tempers as both watched their chances of victory crumble for very different reasons."
     },
     {
       name: " EUROPERAN GRAND PRIX",
@@ -80,7 +81,8 @@ const raceDB = {
       second: "Damon Hill",
       third: "Alain Prost",
       poster: "https://i.postimg.cc/zGgLth7L/1993-european.jpg",
-      fact: ""
+      fact:
+        "Ayrton Senna’s victory in the 1993 European Grand Prix at Donington Park is quite rightly lauded as one of the finest of his glittering career, and the opening lap in particular is held up as perhaps the best-ever in Formula 1 history."
     },
     {
       name: " JAPANESE GRAND PRIX",
@@ -89,7 +91,8 @@ const raceDB = {
       second: "Micheal Schumacher",
       third: "Jean Alesi",
       poster: "https://i.postimg.cc/qRjghxJF/1994-japan.jpg",
-      fact: ""
+      fact:
+        "There have been so many dramatic races at Japan's unique figure-of-eight Suzuka circuit, but none more so than the 1994 epic between Benetton's Michael Schumacher and Williams's Damon Hill."
     }
   ],
   "1980's": [
@@ -100,7 +103,8 @@ const raceDB = {
       second: "Keke Rosberg",
       third: "Jacques Lattife",
       poster: "https://i.postimg.cc/xTSTfZ3d/1982-austrian.jpg",
-      fact: ""
+      fact:
+        "Although nobody knew it at the time, this would be the last time Colin Chapman watched one of his beloved Lotus machines win a grand prix."
     },
     {
       name: " PORTUGUESE GRAND PRIX",
@@ -109,7 +113,8 @@ const raceDB = {
       second: "Michele Alboreto",
       third: "Patrick Tambay",
       poster: "https://i.postimg.cc/Cx5ySCX1/1985-portugal.jpg",
-      fact: ""
+      fact:
+        "Ayrton Senna's victory on Sunday will be remembered as a classic. From the start he was in a race of his own, and made no mistake worthy of the name in conditions so appalling as to catch out a man of Alain Prost's quality. The Brazilian gave the impression that he could have gone on like that indefinitely. And he probably could have. It was a mesmeric performance."
     },
     {
       name: " BRITISH GRAND PRIX",
@@ -118,7 +123,7 @@ const raceDB = {
       second: "Nelson Piquet",
       third: "Ayrton Senna",
       poster: "https://i.postimg.cc/5tQZF4xW/1987-british.jpg",
-      fact: ""
+      fact: "Two words: MANSELL MANIA"
     }
   ]
 };
